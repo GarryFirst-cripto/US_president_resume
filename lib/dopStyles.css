@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Pattaya&display=swap');
+
+bk {
+    font-family: 'Pattaya', sans-serif;
+    font-size: 120%;
+    color: #e61807;
+    text-shadow: 2px 2px 2px #ffb91b;
+}
+
+.mainList {
+    font-family: 'Microsoft Sans Serif';
+    font-size: 24px;
+    list-style-image: url("img/marker.png");
+}
+
+.subList {
+    display: none;
+    font-family: 'SansSerif';
+    font-size: 20px;
+}
+
+.abzs {
+    padding: 2%;
+    text-indent: 15px;
+    text-align: justify;
+}
+
+.abzImg {
+    position: relative;
+    float: left;
+    margin: 10px;
+}
+
+.selected {
+    transform: rotate(90deg);
+    transition: all 1s;
+}
