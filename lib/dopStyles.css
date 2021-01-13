@@ -7,10 +7,17 @@ bk {
     text-shadow: 2px 2px 2px #ffb91b;
 }
 
+.alignCenter {
+    text-align: center;
+}
+
+.alignJustify {
+    text-align: justify;
+}
+
 .mainList {
     font-family: 'Microsoft Sans Serif';
     font-size: 24px;
-    list-style-image: url("img/marker.png");
 }
 
 .subList {
