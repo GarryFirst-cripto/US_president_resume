@@ -1,0 +1,13 @@
+{
+    "name": "black/demo-server",
+    "authors": [
+        {
+            "name": "GarryFirst-cripto",
+            "email": "vist_01@ukr.net"
+        }
+   ],
+   "require": {},
+   "require-dev": {
+     "heroku/heroku-buildpack-php": "*"
+   }
+}
